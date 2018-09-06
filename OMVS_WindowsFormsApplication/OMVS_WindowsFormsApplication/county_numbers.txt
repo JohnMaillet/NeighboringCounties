@@ -1,0 +1,198 @@
+﻿Adair County 	001 	Greenfield 	01 	Jan 15, 1851 	Cass County 	John Adair, Kentucky Governor 	69 	7,682 	569 sq mi
+(1,474 km2) 	State map highlighting Adair County
+Adams County 	003 	Corning 	02 	Jan 15, 1851 	Taylor County 	John Adams, US President 	81 	4,029 	424 sq mi
+(1,098 km2) 	State map highlighting Adams County
+Allamakee County 	005 	Waukon 	03 	Feb 20, 1847 	Clayton County 	Disputed, possibly Allan Makee, early trader and guide for settlers 	11 	14,330 	640 sq mi
+(1,658 km2) 	State map highlighting Allamakee County
+Appanoose County 	007 	Centerville 	04 	Feb 17, 1843 	Davis County 	Chief Appanoose, headed peace party in the Black Hawk War 	96 	12,884 	496 sq mi
+(1,285 km2) 	State map highlighting Appanoose County
+Audubon County 	009 	Audubon 	05 	Jan 15, 1851 	Black Hawk County and Cass County 	John James Audubon, ornithologist and artist 	57 	6,119 	443 sq mi
+(1,147 km2) 	State map highlighting Audubon County
+Benton County 	011 	Vinton 	06 	Dec 21, 1837 	Native American lands and Wisconsin Territory 	Thomas Hart Benton, Missouri Senator 	51 	26,076 	716 sq mi
+(1,854 km2) 	State map highlighting Benton County
+Black Hawk County 	013 	Waterloo 	07 	Feb 17, 1843 	Delaware County 	Black Hawk, leader during Black Hawk War 	39 	131,090 	567 sq mi
+(1,469 km2) 	State map highlighting Black Hawk County
+Boone County 	015 	Boone 	08 	Jan 13, 1846 	Polk County 	Nathan Boone, one of the first to survey Iowa 	47 	26,306 	572 sq mi
+(1,481 km2) 	State map highlighting Boone County
+Bremer County 	017 	Waverly 	09 	Jan 15, 1851 	Native American lands and Winnebago County 	Fredrika Bremer, Swedish poet and author 	30 	24,276 	428 sq mi
+(1,109 km2) 	State map highlighting Bremer County
+Buchanan County 	019 	Independence 	10 	Dec 21, 1837 	Delaware County and Wisconsin Territory 	James Buchanan, US President 	40 	20,958 	571 sq mi
+(1,479 km2) 	State map highlighting Buchanan County
+Buena Vista County 	021 	Storm Lake 	11 	Jan 15, 1851 	Clay County and Sac County 	Battle of Buena Vista, Mexican–American War 	24 	20,260 	575 sq mi
+(1,489 km2) 	State map highlighting Buena Vista County
+Butler County 	023 	Allison 	12 	Jan 15, 1851 	Black Hawk County and Buchanan County 	William Orlando Butler, War of 1812 hero 	29 	14,867 	580 sq mi
+(1,502 km2) 	State map highlighting Butler County
+Calhoun County 	025 	Rockwell City 	13 	Jan 15, 1851 	Fox County (renamed) 	John C. Calhoun, US Vice President 	34 	9,670 	570 sq mi
+(1,476 km2) 	State map highlighting Calhoun County
+Carroll County 	027 	Carroll 	14 	Jan 15, 1851 	Guthrie County 	Charles Carroll, signatory of the Declaration of Independence 	45 	20,816 	569 sq mi
+(1,474 km2) 	State map highlighting Carroll County
+Cass County 	029 	Atlantic 	15 	Jan 15, 1851 	Pottawattamie County 	Lewis Cass, Michigan Senator 	68 	13,956 	564 sq mi
+(1,461 km2) 	State map highlighting Cass County
+Cedar County 	031 	Tipton 	16 	Dec 21, 1837 	Wisconsin Territory 	Cedar River that runs through county 	65 	18,499 	580 sq mi
+(1,502 km2) 	State map highlighting Cedar County
+Cerro Gordo County 	033 	Mason City 	17 	Jan 15, 1851 	Floyd County 	Battle of Cerro Gordo, Mexican–American War 	17 	44,151 	568 sq mi
+(1,471 km2) 	State map highlighting Cerro Gordo County
+Cherokee County 	035 	Cherokee 	18 	Jan 15, 1851 	Crawford County 	Cherokee People 	23 	12,072 	577 sq mi
+(1,494 km2) 	State map highlighting Cherokee County
+Chickasaw County 	037 	New Hampton 	19 	Jan 15, 1851 	Fayette County 	Chickasaw People 	19 	12,439 	505 sq mi
+(1,308 km2) 	State map highlighting Chickasaw County
+Clarke County 	039 	Osceola 	20 	Jan 13, 1846 	Lucas County 	James Clarke, Governor of Iowa Territory 	83 	9,286 	431 sq mi
+(1,116 km2) 	State map highlighting Clarke County
+Clay County 	041 	Spencer 	21 	Jan 15, 1851 	Native American lands 	Henry Clay, Jr., officer in the Mexican–American War 	14 	16,667 	569 sq mi
+(1,474 km2) 	State map highlighting Clay County
+Clayton County 	043 	Elkader 	22 	Dec 21, 1837 	Dubuque County and Wisconsin Territory 	John M. Clayton, Delaware Senator 	21 	18,129 	779 sq mi
+(2,018 km2) 	State map highlighting Clayton County
+Clinton County 	045 	Clinton 	23 	Dec 21, 1837 	Dubuque County and Wisconsin Territory 	DeWitt Clinton, New York Governor 	66 	49,116 	695 sq mi
+(1,800 km2) 	State map highlighting Clinton County
+Crawford County 	047 	Denison 	24 	Jan 15, 1851 	Shelby County 	William Harris Crawford, Georgia Senator 	44 	17,096 	714 sq mi
+(1,849 km2) 	State map highlighting Crawford County
+Dallas County 	049 	Adel 	25 	Jan 13, 1846 	Polk County 	George Mifflin Dallas, US Vice President 	59 	66,135 	586 sq mi
+(1,518 km2) 	State map highlighting Dallas County
+Davis County 	051 	Bloomfield 	26 	Feb 17, 1843 	Van Buren County 	Garrett Davis, Kentucky Congressman 	97 	8,753 	503 sq mi
+(1,303 km2) 	State map highlighting Davis County
+Decatur County 	053 	Leon 	27 	Jan 13, 1846 	Appanoose County 	Stephen Decatur, War of 1812 naval officer 	94 	8,457 	532 sq mi
+(1,378 km2) 	State map highlighting Decatur County
+Delaware County 	055 	Manchester 	28 	Dec 21, 1837 	Dubuque County and Wisconsin Territory 	State of Delaware, home of Iowa statehood advocate US Senator John M. Clayton 	41 	17,764 	578 sq mi
+(1,497 km2) 	State map highlighting Delaware County
+Des Moines County 	057 	Burlington 	29 	Sep 6, 1834 	Michigan Territory and Wisconsin Territory 	Des Moines River that once ran through the county 	89 	40,325 	416 sq mi
+(1,077 km2) 	State map highlighting Des Moines County
+Dickinson County 	059 	Spirit Lake 	30 	Jan 15, 1851 	Kossuth County 	Daniel Stevens Dickinson, New York Senator 	3 	16,667 	381 sq mi
+(987 km2) 	State map highlighting Dickinson County
+Dubuque County 	061 	Dubuque 	31 	Sep 6, 1834 	Michigan Territory and Wisconsin Territory 	Julien Dubuque, first permanent white settler in Iowa 	42 	93,653 	608 sq mi
+(1,575 km2) 	State map highlighting Dubuque County
+Emmet County 	063 	Estherville 	32 	Jan 15, 1851 	Dickinson County and Kossuth County 	Robert Emmet, Irish revolutionary and American republican sympathizer 	4 	10,302 	396 sq mi
+(1,026 km2) 	State map highlighting Emmet County
+Fayette County 	065 	West Union 	33 	Dec 21, 1837 	Clayton County and Wisconsin Territory 	Marquis de Lafayette, Frenchman who aided colonial forces during American Revolutionary War 	20 	20,880 	731 sq mi
+(1,893 km2) 	State map highlighting Fayette County
+Floyd County 	067 	Charles City 	34 	Jan 15, 1851 	Chickasaw County 	Charles Floyd, member of Lewis and Clark Expedition who died in Iowa 	18 	16,303 	501 sq mi
+(1,298 km2) 	State map highlighting Floyd County
+Franklin County 	069 	Hampton 	35 	Jan 15, 1851 	Chickasaw County 	Benjamin Franklin, statesman and US founding father 	28 	10,680 	582 sq mi
+(1,507 km2) 	State map highlighting Franklin County
+Fremont County 	071 	Sidney 	36 	Feb 24, 1847 	Pottawattamie County 	John Charles Fremont, Mexican–American War officer 	90 	7,441 	511 sq mi
+(1,323 km2) 	State map highlighting Fremont County
+Greene County 	073 	Jefferson 	37 	Jan 15, 1851 	Dallas County 	Nathanael Greene, American Revolutionary War general 	46 	9,336 	568 sq mi
+(1,471 km2) 	State map highlighting Greene County
+Grundy County 	075 	Grundy Center 	38 	Jan 15, 1851 	Black Hawk County 	Felix Grundy, Tennessee Congressman 	38 	12,453 	503 sq mi
+(1,303 km2) 	State map highlighting Grundy County
+Guthrie County 	077 	Guthrie Center 	39 	Jul 8, 1851 	Jackson County 	Edwin B. Guthrie, Mexican–American War officer 	58 	10,954 	591 sq mi
+(1,531 km2) 	State map highlighting Guthrie County
+Hamilton County 	079 	Webster City 	40 	Dec 22, 1856 	Webster County 	William W. Hamilton, President of Iowa Senate (1856–1857) 	36 	15,673 	577 sq mi
+(1,494 km2) 	State map highlighting Hamilton County
+Hancock County 	081 	Garner 	41 	Jan 15, 1851 	Wright County 	John Hancock, President of First Continental Congress 	16 	11,341 	571 sq mi
+(1,479 km2) 	State map highlighting Hancock County
+Hardin County 	083 	Eldora 	42 	Jan 15, 1851 	Black Hawk County 	John J. Hardin, prominent soldier, Black Hawk War 	37 	17,534 	569 sq mi
+(1,474 km2) 	State map highlighting Hardin County
+Harrison County 	085 	Logan 	43 	Jan 15, 1851 	Pottawattamie County 	William Henry Harrison, US President 	55 	14,928 	697 sq mi
+(1,805 km2) 	State map highlighting Harrison County
+Henry County 	087 	Mount Pleasant 	44 	Dec 7, 1836 	Wisconsin Territory 	Disputed, see reference[14] 	88 	20,145 	434 sq mi
+(1,124 km2) 	State map highlighting Henry County
+Howard County 	089 	Cresco 	45 	Jan 15, 1851 	Chickasaw County 	Tilghman Howard, US Representative from Indiana 	9 	9,566 	473 sq mi
+(1,225 km2) 	State map highlighting Howard County
+Humboldt County 	091 	Dakota City 	46 	Feb 26, 1857 	Webster County 	Alexander von Humboldt, German scientist 	26 	9,815 	434 sq mi
+(1,124 km2) 	State map highlighting Humboldt County
+Ida County 	093 	Ida Grove 	47 	Jan 15, 1851 	Cherokee County 	Mount Ida in Greece 	32 	7,089 	432 sq mi
+(1,119 km2) 	State map highlighting Ida County
+Iowa County 	095 	Marengo 	48 	Feb 17, 1843 	Washington County 	Iowa River that flows through the county 	63 	16,355 	586 sq mi
+(1,518 km2) 	State map highlighting Iowa County
+Jackson County 	097 	Maquoketa 	49 	Dec 21, 1837 	Wisconsin Territory 	Andrew Jackson, US President 	54 	19,848 	636 sq mi
+(1,647 km2) 	State map highlighting Jackson County
+Jasper County 	099 	Newton 	50 	Jan 13, 1846 	Mahaska County 	William Jasper, American Revolutionary War sergeant 	61 	36,842 	730 sq mi
+(1,891 km2) 	State map highlighting Jasper County
+Jefferson County 	101 	Fairfield 	51 	Jan 21, 1839 	Native American lands 	Thomas Jefferson, US President 	87 	16,843 	435 sq mi
+(1,127 km2) 	State map highlighting Jefferson County
+Johnson County 	103 	Iowa City 	52 	Dec 21, 1837 	Des Moines County, Iowa and Wisconsin Territory 	Richard Mentor Johnson, US Vice President 	64 	130,882 	614 sq mi
+(1,590 km2) 	State map highlighting Johnson County
+Jones County 	105 	Anamosa 	53 	Dec 21, 1837 	Wisconsin Territory 	George Wallace Jones, Iowa Senator 	53 	20,638 	575 sq mi
+(1,489 km2) 	State map highlighting Jones County
+Keokuk County 	107 	Sigourney 	54 	Dec 21, 1837 	Washington County 	Chief Keokuk 	74 	10,511 	579 sq mi
+(1,500 km2) 	State map highlighting Keokuk County
+Kossuth County 	109 	Algona 	55 	Jan 15, 1851 	Webster County 	Lajos Kossuth, Hungarian revolutionary inspired by American democratic ideals 	5 	15,543 	973 sq mi
+(2,520 km2) 	State map highlighting Kossuth County
+Lee County 	111 	Fort Madison and Keokuk 	56 	Dec 7, 1836 	Des Moines County 	William Elliott Lee, businessman from the New York Land Company, who sold the county's first tracts of land 	99 	35,862 	517 sq mi
+(1,339 km2) 	State map highlighting Lee County
+Linn County 	113 	Cedar Rapids 	57 	Dec 21, 1837 	Wisconsin Territory 	Lewis Fields Linn, doctor and Missouri Senator 	52 	211,226 	718 sq mi
+(1,860 km2) 	State map highlighting Linn County
+Louisa County 	115 	Wapello 	58 	Dec 7, 1836 	Des Moines County 	Disputed, see reference[15] 	76 	11,387 	402 sq mi
+(1,041 km2) 	State map highlighting Louisa County
+Lucas County 	117 	Chariton 	59 	Jan 13, 1846 	Monroe County 	Robert Lucas, first Governor of Iowa Territory 	84 	8,898 	431 sq mi
+(1,116 km2) 	State map highlighting Lucas County
+Lyon County 	119 	Rock Rapids 	60 	Jan 15, 1851 	Woodbury County, Iowa 	Nathaniel Lyon, first Union general to be killed in the American Civil War, (formerly named Buncombe County) 	1 	11,581 	588 sq mi
+(1,523 km2) 	State map highlighting Lyon County
+Madison County 	121 	Winterset 	61 	Jan 13, 1846 	Polk County 	James Madison, US President 	70 	15,679 	561 sq mi
+(1,453 km2) 	State map highlighting Madison County
+Mahaska County 	123 	Oskaloosa 	62 	Feb 17, 1843 	Fox and Sac Indian lands 	Chief Mahaska 	73 	22,381 	571 sq mi
+(1,479 km2) 	State map highlighting Mahaska County
+Marion County 	125 	Knoxville 	63 	Jun 10, 1845 	Washington County 	Francis Marion, American Revolutionary War general 	72 	33,309 	554 sq mi
+(1,435 km2) 	State map highlighting Marion County
+Marshall County 	127 	Marshalltown 	64 	Jan 13, 1846 	Jasper County 	John Marshall, Chief Justice of the United States Supreme Court 	49 	40,648 	572 sq mi
+(1,481 km2) 	State map highlighting Marshall County
+Mills County 	129 	Glenwood 	65 	Jan 15, 1851 	Pottawattamie County 	Frederick Mills, major killed during the Battle of Churubusco, Mexican–American War 	79 	15,059 	437 sq mi
+(1,132 km2) 	State map highlighting Mills County
+Mitchell County 	131 	Osage 	66 	Jan 15, 1851 	Chickasaw County 	John Mitchel, Irish revolutionary who operated out of the US 	8 	10,776 	469 sq mi
+(1,215 km2) 	State map highlighting Mitchell County
+Monona County 	133 	Onawa 	67 	Jan 15, 1851 	Harrison County 	Native American word thought to mean "peaceful valley" 	43 	9,243 	693 sq mi
+(1,795 km2) 	State map highlighting Monona County
+Monroe County 	135 	Albia 	68 	Feb 17, 1843 	Wapello County 	James Monroe, US President 	85 	7,970 	433 sq mi
+(1,121 km2) 	State map highlighting Monroe County
+Montgomery County 	137 	Red Oak 	69 	Jan 15, 1851 	Polk County 	Richard Montgomery, American Revolutionary War general 	80 	10,740 	424 sq mi
+(1,098 km2) 	State map highlighting Montgomery County
+Muscatine County 	139 	Muscatine 	70 	Dec 7, 1836 	Des Moines County 	debated, possibly Mascouten People 	77 	42,745 	439 sq mi
+(1,137 km2) 	State map highlighting Muscatine County
+O'Brien County 	141 	Primghar 	71 	Jan 15, 1851 	Cherokee County 	William Smith O'Brien, Irish revolutionary inspired by American democratic ideals 	13 	14,398 	573 sq mi
+(1,484 km2) 	State map highlighting O'Brien County
+Osceola County 	143 	Sibley 	72 	Jan 15, 1851 	Woodbury County 	Osceola, Seminole leader 	2 	6,462 	399 sq mi
+(1,033 km2) 	State map highlighting Osceola County
+Page County 	145 	Clarinda 	73 	Feb 24, 1847 	Pottawattamie County 	John Page, officer killed in Battle of Palo Alto, Mexican–American War 	91 	15,932 	535 sq mi
+(1,386 km2) 	State map highlighting Page County
+Palo Alto County 	147 	Emmetsburg 	74 	Jan 15, 1851 	Kossuth County 	Battle of Palo Alto, Mexican–American War 	15 	9,421 	564 sq mi
+(1,461 km2) 	State map highlighting Palo Alto County
+Plymouth County 	149 	Le Mars 	75 	Jan 15, 1851 	Woodbury County 	Plymouth, Massachusetts 	22 	24,986 	864 sq mi
+(2,238 km2) 	State map highlighting Plymouth County
+Pocahontas County 	151 	Pocahontas 	76 	Jan 15, 1851 	Greene County and Humboldt County 	Pocahontas, famous Native American woman 	25 	7,310 	578 sq mi
+(1,497 km2) 	State map highlighting Pocahontas County
+Polk County 	153 	Des Moines 	77 	January 13, 1846 	Native American lands 	James K. Polk, US President 	60 	430,640 	570 sq mi
+(1,476 km2) 	State map highlighting Polk County
+Pottawattamie County 	155 	Council Bluffs 	78 	Feb 24, 1847 	Native American lands 	Potawatomi People 	67 	93,158 	954 sq mi
+(2,471 km2) 	State map highlighting Pottawattamie County
+Poweshiek County 	157 	Montezuma 	79 	Feb 17, 1843 	Meskwaki lands 	Chief Poweshiek, Meskwaki 	62 	18,914 	585 sq mi
+(1,515 km2) 	State map highlighting Poweshiek County
+Ringgold County 	159 	Mount Ayr 	80 	Feb 24, 1847 	Taylor County 	Samuel Ringgold, major killed in the Mexican–American War 	93 	5,131 	538 sq mi
+(1,393 km2) 	State map highlighting Ringgold County
+Sac County 	161 	Sac City 	81 	Jan 15, 1851 	Greene County 	Sauk (Sac) People 	33 	10,350 	576 sq mi
+(1,492 km2) 	State map highlighting Sac County
+Scott County 	163 	Davenport 	82 	Dec 21, 1837 	Wisconsin Territory 	Winfield Scott, War of 1812 General 	78 	165,224 	458 sq mi
+(1,186 km2) 	State map highlighting Scott County
+Shelby County 	165 	Harlan 	83 	Jan 15, 1851 	Cass County 	Isaac Shelby, American Revolutionary War General, War of 1812 	56 	12,167 	591 sq mi
+(1,531 km2) 	State map highlighting Shelby County
+Sioux County 	167 	Orange City 	84 	Jan 15, 1851 	Plymouth County 	Sioux People 	12 	33,704 	768 sq mi
+(1,989 km2) 	State map highlighting Sioux County
+Story County 	169 	Nevada 	85 	Jan 13, 1846 	Boone County, Jasper County, and Polk County 	Joseph Story, US Supreme Court Justice 	48 	89,542 	573 sq mi
+(1,484 km2) 	State map highlighting Story County
+Tama County 	171 	Toledo 	86 	Feb 17, 1843 	Benton County and Boone County 	Disputed, see reference[16] 	50 	17,767 	721 sq mi
+(1,867 km2) 	State map highlighting Tama County
+Taylor County 	173 	Bedford 	87 	February 24, 1847 	Page County 	Zachary Taylor, US President 	92 	6,317 	534 sq mi
+(1,383 km2) 	State map highlighting Taylor County
+Union County 	175 	Creston 	88 	Jan 15, 1851 	Clarke County 	The union of the states 	82 	12,534 	424 sq mi
+(1,098 km2) 	State map highlighting Union County
+Van Buren County 	177 	Keosauqua 	89 	Dec 7, 1836 	Des Moines County 	Martin Van Buren, US President 	98 	7,570 	485 sq mi
+(1,256 km2) 	State map highlighting Van Buren County
+Wapello County 	179 	Ottumwa 	90 	Feb 17, 1843 	Native American lands 	Chief Wapello 	86 	35,625 	432 sq mi
+(1,119 km2) 	State map highlighting Wapello County
+Warren County 	181 	Indianola 	91 	Jan 13, 1846 	Polk County 	Joseph Warren, American Revolutionary War General 	71 	46,225 	572 sq mi
+(1,481 km2) 	State map highlighting Warren County
+Washington County 	183 	Washington 	92 	Jan 25, 1839 	Wisconsin Territory 	George Washington, US President 	75 	21,704 	569 sq mi
+(1,474 km2) 	State map highlighting Washington County
+Wayne County 	185 	Corydon 	93 	Jan 13, 1846 	Appanoose County 	Anthony Wayne, American Revolutionary War General 	95 	6,403 	526 sq mi
+(1,362 km2) 	State map highlighting Wayne County
+Webster County 	187 	Fort Dodge 	94 	Jan 12, 1853 	Risley County and Yell County (defunct IA counties)[17] 	Daniel Webster, Massachusetts Senator 	35 	38,013 	715 sq mi
+(1,852 km2) 	State map highlighting Webster County
+Winnebago County 	189 	Forest City 	95 	Jan 15, 1851 	Kossuth County 	Winnebago (Ho–Chunk) People 	6 	10,866 	400 sq mi
+(1,036 km2) 	State map highlighting Winnebago County
+Winneshiek County 	191 	Decorah 	96 	Feb 20, 1847 	Native American lands 	Chief Winneshiek 	10 	21,056 	690 sq mi
+(1,787 km2) 	State map highlighting Winneshiek County
+Woodbury County 	193 	Sioux City 	97 	Jan 12, 1853 	Wahkaw County (renamed), Polk County 	Levi Woodbury, New Hampshire Governor 	31 	102,172 	873 sq mi
+(2,261 km2) 	State map highlighting Woodbury County
+Worth County 	195 	Northwood 	98 	Jan 15, 1851 	Mitchell County 	William Jenkins Worth, Black Hawk War and Mexican–American War officer 	7 	7,598 	400 sq mi
+(1,036 km2) 	State map highlighting Worth County
+Wright County 	197 	Clarion 	99 	Jan 15, 1851 	Webster County and Kossuth County 	Silas Wright, New York Governor, and Joseph Albert Wright, Indiana Governor (brothers) 	27 	13,229 	581 sq mi
+(1,505 km2) 	State map highlighting Wright County

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CountiesModelStoreContainer" CdmEntityContainer="CountiesEntities">
+    <EntitySetMapping Name="AdjacentCounties1">
+      <EntityTypeMapping TypeName="CountiesModel.AdjacentCounties">
+        <MappingFragment StoreEntitySet="AdjacentCounties">
+          <ScalarProperty Name="AdjacencyID" ColumnName="AdjacencyID" />
+          <ScalarProperty Name="CountyName" ColumnName="CountyName" />
+          <ScalarProperty Name="AdjacentCountyName" ColumnName="AdjacentCountyName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CountyNumbers">
+      <EntityTypeMapping TypeName="CountiesModel.CountyNumber">
+        <MappingFragment StoreEntitySet="CountyNumbers">
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="alphaOrder" ColumnName="alphaOrder" />
+          <ScalarProperty Name="mapNumber" ColumnName="mapNumber" />
+          <ScalarProperty Name="CountyName" ColumnName="CountyName" />
+          <ScalarProperty Name="CountyID" ColumnName="CountyID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="isAdjacent" FunctionName="CountiesModel.Store.isAdjacent">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="CountiesModel.isAdjacent_Result">
+          <ScalarProperty Name="mapNumber" ColumnName="mapNumber" />
+          <ScalarProperty Name="CountyName" ColumnName="CountyName" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

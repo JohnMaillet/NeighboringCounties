@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="CountiesModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="AdjacentCounties">
+          <Key>
+            <PropertyRef Name="AdjacencyID" />
+          </Key>
+          <Property Name="AdjacencyID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="CountyName" Type="varchar" MaxLength="255" />
+          <Property Name="AdjacentCountyName" Type="varchar" MaxLength="255" />
+        </EntityType>
+        <EntityType Name="CountyNumbers">
+          <Key>
+            <PropertyRef Name="CountyID" />
+          </Key>
+          <Property Name="CountyID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="CountyName" Type="varchar" MaxLength="255" Nullable="false" />
+          <Property Name="mapNumber" Type="int" Nullable="false" />
+          <Property Name="alphaOrder" Type="int" Nullable="false" />
+          <Property Name="Status" Type="varchar" MaxLength="10" Nullable="false" />
+        </EntityType>
+        <Function Name="isAdjacent" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="County1" Type="int" Mode="In" />
+          <Parameter Name="County2" Type="int" Mode="In" />
+        </Function>
+        <EntityContainer Name="CountiesModelStoreContainer">
+          <EntitySet Name="AdjacentCounties" EntityType="Self.AdjacentCounties" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="CountyNumbers" EntityType="Self.CountyNumbers" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="CountiesModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="AdjacentCounties">
+          <Key>
+            <PropertyRef Name="AdjacencyID" />
+          </Key>
+          <Property Name="AdjacencyID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" xmlns="http://schemas.microsoft.com/ado/2009/11/edm" />
+          <Property Name="CountyName" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+          <Property Name="AdjacentCountyName" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityContainer Name="CountiesEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="AdjacentCounties1" EntityType="CountiesModel.AdjacentCounties" />
+          <FunctionImport Name="findCounty" ReturnType="Collection(CountiesModel.findCounty_Result)">
+            <Parameter Name="County1" Mode="In" Type="Int32" />
+            <Parameter Name="County2" Mode="In" Type="Int32" />
+          </FunctionImport>
+          <EntitySet Name="CountyNumbers" EntityType="CountiesModel.CountyNumber" />
+          <FunctionImport Name="findCounty1" ReturnType="Collection(CountiesModel.findCounty1_Result)">
+            <Parameter Name="County1" Mode="In" Type="Int32" />
+            <Parameter Name="County2" Mode="In" Type="Int32" />
+          </FunctionImport>
+          <FunctionImport Name="isAdjacent" ReturnType="Collection(CountiesModel.isAdjacent_Result)">
+            <Parameter Name="County1" Mode="In" Type="Int32" />
+            <Parameter Name="County2" Mode="In" Type="Int32" />
+          </FunctionImport>
+        </EntityContainer>
+        <ComplexType Name="findCounty_Result">
+          <Property Type="Int32" Name="fips" Nullable="false" />
+          <Property Type="String" Name="CountyName" Nullable="false" MaxLength="255" />
+        </ComplexType>
+        <EntityType Name="CountyNumber">
+          <Key>
+            <PropertyRef Name="CountyID" />
+          </Key>
+          <Property Name="CountyID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="CountyName" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="false" />
+          <Property Name="mapNumber" Type="Int32" Nullable="false" />
+          <Property Name="alphaOrder" Type="Int32" Nullable="false" />
+          <Property Name="Status" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <ComplexType Name="findCounty1_Result">
+          <Property Type="Int32" Name="mapNumber" Nullable="false" />
+          <Property Type="String" Name="CountyName" Nullable="false" MaxLength="255" />
+        </ComplexType>
+        <ComplexType Name="isAdjacent_Result">
+          <Property Type="Int32" Name="mapNumber" Nullable="false" />
+          <Property Type="String" Name="CountyName" Nullable="false" MaxLength="255" />
+        </ComplexType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="CountiesModelStoreContainer" CdmEntityContainer="CountiesEntities">
+          <EntitySetMapping Name="AdjacentCounties1">
+            <EntityTypeMapping TypeName="CountiesModel.AdjacentCounties">
+              <MappingFragment StoreEntitySet="AdjacentCounties">
+                <ScalarProperty Name="AdjacencyID" ColumnName="AdjacencyID" />
+                <ScalarProperty Name="CountyName" ColumnName="CountyName" />
+                <ScalarProperty Name="AdjacentCountyName" ColumnName="AdjacentCountyName" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="CountyNumbers">
+            <EntityTypeMapping TypeName="CountiesModel.CountyNumber">
+              <MappingFragment StoreEntitySet="CountyNumbers">
+                <ScalarProperty Name="Status" ColumnName="Status" />
+                <ScalarProperty Name="alphaOrder" ColumnName="alphaOrder" />
+                <ScalarProperty Name="mapNumber" ColumnName="mapNumber" />
+                <ScalarProperty Name="CountyName" ColumnName="CountyName" />
+                <ScalarProperty Name="CountyID" ColumnName="CountyID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <FunctionImportMapping FunctionImportName="isAdjacent" FunctionName="CountiesModel.Store.isAdjacent">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="CountiesModel.isAdjacent_Result">
+                <ScalarProperty Name="mapNumber" ColumnName="mapNumber" />
+                <ScalarProperty Name="CountyName" ColumnName="CountyName" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CountiesModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="AdjacentCounties">
+    <Key>
+      <PropertyRef Name="AdjacencyID" />
+    </Key>
+    <Property Name="AdjacencyID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" xmlns="http://schemas.microsoft.com/ado/2009/11/edm" />
+    <Property Name="CountyName" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="AdjacentCountyName" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityContainer Name="CountiesEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="AdjacentCounties1" EntityType="CountiesModel.AdjacentCounties" />
+    <FunctionImport Name="findCounty" ReturnType="Collection(CountiesModel.findCounty_Result)">
+      <Parameter Name="County1" Mode="In" Type="Int32" />
+      <Parameter Name="County2" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <EntitySet Name="CountyNumbers" EntityType="CountiesModel.CountyNumber" />
+    <FunctionImport Name="findCounty1" ReturnType="Collection(CountiesModel.findCounty1_Result)">
+      <Parameter Name="County1" Mode="In" Type="Int32" />
+      <Parameter Name="County2" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="isAdjacent" ReturnType="Collection(CountiesModel.isAdjacent_Result)">
+      <Parameter Name="County1" Mode="In" Type="Int32" />
+      <Parameter Name="County2" Mode="In" Type="Int32" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="findCounty_Result">
+    <Property Type="Int32" Name="fips" Nullable="false" />
+    <Property Type="String" Name="CountyName" Nullable="false" MaxLength="255" />
+  </ComplexType>
+  <EntityType Name="CountyNumber">
+    <Key>
+      <PropertyRef Name="CountyID" />
+    </Key>
+    <Property Name="CountyID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CountyName" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="mapNumber" Type="Int32" Nullable="false" />
+    <Property Name="alphaOrder" Type="Int32" Nullable="false" />
+    <Property Name="Status" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <ComplexType Name="findCounty1_Result">
+    <Property Type="Int32" Name="mapNumber" Nullable="false" />
+    <Property Type="String" Name="CountyName" Nullable="false" MaxLength="255" />
+  </ComplexType>
+  <ComplexType Name="isAdjacent_Result">
+    <Property Type="Int32" Name="mapNumber" Nullable="false" />
+    <Property Type="String" Name="CountyName" Nullable="false" MaxLength="255" />
+  </ComplexType>
+</Schema>
